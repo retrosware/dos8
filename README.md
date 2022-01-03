@@ -28,7 +28,7 @@ initc
 
 after booting.
 
-Drive C will be formated. DOS 8.0 will be installed.
+Drive C will be formated. MS-DOS 8.0 will be installed.
 
 I only collect and make this boot disk, hoping it to be useful.
 I do not have copyrights of any of the component.
