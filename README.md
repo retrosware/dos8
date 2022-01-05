@@ -1,4 +1,4 @@
-# M$-DOS 8.0 Unofficial Boot floppy image
+# MS-DOS 8.0 Unofficial Boot floppy image
 This is only tested in virtual machines. With configuration 
 
 AOpen AX59 Pro
