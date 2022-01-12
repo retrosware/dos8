@@ -1,4 +1,6 @@
-# MS-DOS 8.0 Unofficial Boot floppy image
+# MS-DOS 8.0 Unofficial
+DOS8Boot.img
+
 This is only tested in virtual machines. With configuration 
 
 AOpen AX59 Pro
@@ -29,6 +31,10 @@ initc
 after booting.
 
 Drive C will be formated. MS-DOS 8.0 will be installed.
+
+DOS8Basic.img
+  
+  Quick Basic packages
 
 I only collect and make this boot disk, hoping it to be useful.
 I do not have copyrights of any of the component.
