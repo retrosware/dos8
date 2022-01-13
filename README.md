@@ -1,7 +1,7 @@
 # MS-DOS 8.0 Unofficial
 ## DOS8Boot.img
 
-This is only tested in virtual machines. With configuration 
+This is only tested in [virtual machines](https://github.com/86Box/86Box). With configuration 
 
 - AOpen AX59 Pro
 - Intel Pentium MMX 233
