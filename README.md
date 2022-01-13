@@ -1,11 +1,11 @@
 # MS-DOS 8.0 Unofficial
-DOS8Boot.img
+## DOS8Boot.img
 
 This is only tested in virtual machines. With configuration 
 
-AOpen AX59 Pro
+-> AOpen AX59 Pro
 
-Intel Pentium MMX 233
+-> Intel Pentium MMX 233
 
 128MB memory
 
@@ -32,9 +32,9 @@ after booting.
 
 Drive C will be formated. MS-DOS 8.0 will be installed.
 
-DOS8Basic.img
+## DOS8QBasic.img
   
-  Quick Basic packages
+Quick Basic packages
 
 I only collect and make this boot disk, hoping it to be useful.
 I do not have copyrights of any of the component.
