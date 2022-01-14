@@ -54,7 +54,7 @@ follow instructions.
 Read instructions for details
 
 ## Note
-I only collect and make this boot disk, hoping it to be useful.
+I only collect and make these disks, hoping to be useful.
 I do not have copyrights of any of the component.
 
 L.y
