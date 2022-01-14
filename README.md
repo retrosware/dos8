@@ -44,7 +44,15 @@ install
 
 follow instructions.
 
+## DOS8MW31.img
+ - Minimal Windows (Both 386 and 286 mode)
+ - Alternative DOS8 kernal
+ - International functions
+ - Advanced memory managers: Japth's HIMEMX/SX/JEMM(EX) ...
+ - Japth's cdrom & UDMA drivers
+Read instructions for details
 
+## Note
 I only collect and make this boot disk, hoping it to be useful.
 I do not have copyrights of any of the component.
 
