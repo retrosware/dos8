@@ -48,7 +48,7 @@ follow instructions.
  - Minimal Windows (Both 386 and 286 mode)
  - Alternative DOS8 kernal
  - International functions
- - Advanced memory managers: Japth's HIMEMX/SX/JEMM(EX) ...
+ - Advanced memory managers: Japth's [HIMEMX/SX](https://github.com/Baron-von-Riedesel/HimemSX)/[JEMM(EX)](https://github.com/Baron-von-Riedesel/Jemm) ...
  - Japth's cdrom & UDMA drivers
 Read instructions for details
 
